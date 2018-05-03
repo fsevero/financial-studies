@@ -31,3 +31,8 @@ The main solutions would be:
 * AWS Lambda to communicate DynamoDB with API Gateway
   * It may be used to process machine learning algoritms with some work (compiling libraries to the aws environment, like lambda and scikit leaning)
   * There are solutions already available?
+
+## Specific solutions
+* [Databases](/database.md)
+* Api Gateway
+* Lambda Functions
