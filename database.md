@@ -12,7 +12,7 @@ Before knowing more about the datasets, data formats and acceptable performances
 ```javascript
 {
   // person document number - the main key
-  Key: '00000000000',
+  Document: '00000000000',
   Name: 'Fabrício Severo de Severo',
   // Maybe an object with city, state, street, but I'll keep simple by now
   Address: 'Santa Maria - RS',
@@ -33,7 +33,7 @@ Before knowing more about the datasets, data formats and acceptable performances
 ```javascript
 {
   // person document number - the main key
-  Key: '00000000000',
+  Document: '00000000000',
   Age: 29,
   // Maybe an object with city, state, street, but I'll keep simple by now
   Address: 'Santa Maria - RS',
@@ -59,7 +59,7 @@ Before knowing more about the datasets, data formats and acceptable performances
 ```javascript
 {
   // person document number - the main key
-  Key: '00000000000',
+  Document: '00000000000',
   LastSearch: {
     Entity: 'Bank Name',
     Datetime: '2018-05-01',
