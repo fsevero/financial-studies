@@ -34,5 +34,5 @@ The main solutions would be:
 
 ## Specific solutions
 * [Databases](/database.md)
-* Api Gateway
-* Lambda Functions
+* [Api Gateway](api-gateway.md)
+* [Lambda Functions](lambda.md)
